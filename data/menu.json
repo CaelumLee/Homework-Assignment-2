@@ -1,0 +1,22 @@
+{
+    "P1" : {
+        "name" : "ANGUS BURGER PIZZA",
+        "price" : "$6.36"
+    },
+    "P2" : {
+        "name" : "FRIDAY SPECIAL",
+        "price" : "$6.47"
+    },
+    "P3" : {
+        "name" : "PEPPERONI",
+        "price" : "$5.18"
+    },
+    "P4" : {
+        "name" : "HAWAIIAN DELIGHT",
+        "price" : "$5.18"
+    },
+    "P5" : {
+        "name" : "CLASSIC CHEESE",
+        "price" : "$3.70"
+    }
+}
